@@ -1,0 +1,10 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/project/idc1/c1",
+            "binaryPath": "/project/idc1/c1/crtsurfdata",
+            "binaryArgs": []
+        }
+    ],
+    "git.ignoreLimitWarning": true
+}
